@@ -1,0 +1,27 @@
+{
+  "name": "generator-openaiassistant",
+  "version": "1.0.0",
+  "description": "A yeoman generator to scaffold a simple front end for an openAI assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjuarez5/OpenAI-Assistant-Generator.git"
+  },
+  "keywords": [
+    "openai",
+    "chatgpt",
+    "assistant"
+  ],
+  "author": "Julio Juarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjuarez5/OpenAI-Assistant-Generator/issues"
+  },
+  "homepage": "https://github.com/jjuarez5/OpenAI-Assistant-Generator#readme",
+  "dependencies": {
+    "yeoman-generator": "^7.1.1"
+  }
+}
